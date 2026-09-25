@@ -115,4 +115,4 @@ The chatbot retrieves the relevant section, generates the answer, and displays t
 ## Goal
 
 The project focuses on making RAG applications more **transparent and trustworthy** by allowing users to verify where an answer came from.
->>>>>>> 8d73c448eadbc90a44a01dcac39a2847f918526f
+
